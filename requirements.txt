@@ -1,6 +1,8 @@
 streamlit
 numpy
 opencv-python-headless
-deepface
-insightface
 scikit-learn
+tensorflow
+deepface
+onnxruntime
+insightface
